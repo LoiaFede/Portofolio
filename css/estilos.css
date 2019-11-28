@@ -1,0 +1,66 @@
+
+    /*font-family: 'Courgette', cursive;
+
+    font-family: 'Kaushan Script', cursive;*/
+
+/*inicio index*/
+
+.contenedorgral{
+	background-image:url(Fondo2.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	
+}
+#header{
+	/*background-color: #191b1e;
+	opacity: 0.6;*/
+	 
+}
+body{
+	/*overflow: hidden;*/
+	margin: 0;
+}
+nav ul{
+	list-style: none;
+	margin-top: 0;
+	padding-left: 45px;
+}
+nav ul li {
+	display: inline-block;
+	width: 15em;
+	padding-left: 10em;
+}
+nav ul li a{
+	text-decoration: none;
+	font-size: 30px;
+	font-family: 'Kaushan Script', cursive;
+	color:white;
+	text-shadow: 3px 3px black;
+}
+
+#Logo{
+	display: block;
+	margin: auto;
+	width: 20em;
+	height: 20em;
+	padding-top:4em;
+}
+.textointro{
+	height: 160px;
+}
+
+.textointro h1{
+	text-align: center;
+	font-family: 'Courgette', cursive;
+	-webkit-text-stroke: 1px black;
+ 	color: white; 
+	text-shadow: 2.5px 2.5px black;
+	margin-bottom: 0;
+	margin-top: 50px;
+}
+
+#Sobremi{
+	background-color: red;
+	height: 654px;
+}
